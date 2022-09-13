@@ -27,3 +27,4 @@ contract LearnSolidityVariables {
     string errorMessageText = 'There is an mistake';
     
 }
+
