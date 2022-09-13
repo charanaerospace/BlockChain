@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getResult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"BlockchainBasics/intro.sol": "WelcomeToSolidity"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"BlockchainBasics/intro.sol": {
+			"keccak256": "0x1ef35a267e6eedb80e6cdd308cb02e791678796662e5b0e1305fe4b6e2fd500d",
+			"urls": [
+				"bzz-raw://da350fa9198d51027ddd02f55827e7ce8a0561e908cdd77ae3198de4485d0cb6",
+				"dweb:/ipfs/QmVMuanY65Mtyiiop1SmYWpdmJZcyFyErYrgLGcpBMLqrQ"
+			]
+		}
+	},
+	"version": 1
+}
