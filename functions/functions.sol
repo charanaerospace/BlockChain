@@ -5,16 +5,12 @@
 pragma solidity>=0.8.0 <0.9.0;
 
 contract multiplyCalculator {
-    function getaddition()  public view returns(uint) {
-        uint a = 3;
-        uint b = 5;
+    function getaddition(uint a, uint b)  public view returns(uint) {
         uint c = a + b;
         return c;
     }
 
-    function getmultiplication()  public view returns(uint) {
-        uint c = 5;
-        uint d = 6;
+    function getmultiplication(uint c, uint d)  public view returns(uint) {
         uint e = c * d;
         return e; 
     }

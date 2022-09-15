@@ -6,7 +6,18 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
 				"name": "getaddition",
 				"outputs": [
 					{
@@ -19,7 +30,18 @@
 				"type": "function"
 			},
 			{
-				"inputs": [],
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "c",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "d",
+						"type": "uint256"
+					}
+				],
 				"name": "getmultiplication",
 				"outputs": [
 					{
@@ -60,10 +82,10 @@
 	},
 	"sources": {
 		"functions/functions.sol": {
-			"keccak256": "0x9a6602194a5bf6318a5488fb26e22506e3ecb5a88a44f2b4bbc206367cd4323d",
+			"keccak256": "0x06cd33f8e25c2c6727c02e867e97ac1619387472afd13f40ad1adee51e235898",
 			"urls": [
-				"bzz-raw://009ecb176826886f0eb309e5be36ccf971245cc6ae0d5fecf1c959452318d2e0",
-				"dweb:/ipfs/QmNgHMN3i2RUj9gWqqkbDoBrJg3hwqC11HJxwQfL48yviv"
+				"bzz-raw://89db7155a375f22b68e83210fd4475ef1b12053e3912742561468681ff331f22",
+				"dweb:/ipfs/QmXSyFw3LYnd2rsGnvGthuz7tcDcHTa8g9QthWmG8EhLTF"
 			]
 		}
 	},
