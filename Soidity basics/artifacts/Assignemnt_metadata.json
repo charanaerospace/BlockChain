@@ -47,10 +47,10 @@
 	},
 	"sources": {
 		"Soidity basics/assignment.sol": {
-			"keccak256": "0x0ff8bac905f7d06af717b52b5172b5d59f587ac266ab16cb6d3c3f59ab30e2ee",
+			"keccak256": "0x13b1db575b82217a912a77ac43feed2cdbf01f32f0d50e04998f81aa609f2a18",
 			"urls": [
-				"bzz-raw://c13fe6e61bf57ff1e84aada986b96f9a069c2b308863f6cf3d3ee076426b90dc",
-				"dweb:/ipfs/QmQsx8up52LqTFEaBwy5qQAw6zTZJUwVSAQsoLTCb1uZqK"
+				"bzz-raw://90e1d9277f03024d112a728a768a1b1296746bafbefac4502abc51fb78f422bf",
+				"dweb:/ipfs/QmPWLkNnnhsvDFiSVw8heoH1UGPRVPZJEtM2G2HvzGWy5f"
 			]
 		}
 	},

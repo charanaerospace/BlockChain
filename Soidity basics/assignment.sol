@@ -4,9 +4,10 @@
 // add else statement  so theat if the wallet desos not have a value of 1- then add only one more
 // return value of the wallet
 //deploy the  cintract and  try changing the value to 6
-pragma solidity >= 0.7.0 < 0.8.0;
+pragma solidity >= 0.7.0 < 0.9.0;
+
 contract Assignemnt {
-    uint stackingWallet  = 6;
+    uint stackingWallet  = 201;
     function airDrop() public view returns(uint) {
         if(stackingWallet == 10 ) {
             return stackingWallet + 10;
